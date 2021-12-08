@@ -1,3 +1,5 @@
-Hallo mein Name ist Sebastian
+<<<<<<< HEAD
+Hallo mein Name ist Lothar
 
 und zwar immernoch
+>>>>>>> 81e4ae008f76a4d5ac2c7c87d69f6226e371b4f6
